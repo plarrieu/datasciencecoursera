@@ -1,2 +1,2 @@
 # datasciencecoursera
-COursera Data Science Course Project #1
+Coursera Data Science Course Project #1
